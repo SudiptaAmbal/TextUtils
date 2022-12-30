@@ -1,0 +1,13 @@
+.btn{
+    background-color: coral;
+    margin: 10px;
+    color: white;
+}
+
+.btn:hover{
+    background-color: coral;
+}
+
+.summary-info{
+    padding-left: 20px;
+}

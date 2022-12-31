@@ -1,11 +1,10 @@
 .btn{
     background-color: coral;
     margin: 10px;
-    color: white;
 }
 
 .btn:hover{
-    background-color: coral;
+    background-color: rgb(255, 113, 61);
 }
 
 .summary-info{
